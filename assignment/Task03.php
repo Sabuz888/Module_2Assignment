@@ -15,9 +15,9 @@ for($i = 0; $i <= $input; $i++){
      $n1=$n2;  
      $n2=$temp; 
     
-    //  if($n2>100){
-    //    break;
-    //  }
+      if($n2>100){
+        break;
+      }
    }
 
 
